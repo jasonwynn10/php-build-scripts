@@ -954,6 +954,8 @@ $HAS_DEBUG \
 --without-iconv \
 --with-pdo-sqlite \
 --with-pdo-mysql \
+--with-pdo-pgsql \
+--with-pdo-odbc=generic \
 --with-pic \
 --enable-phar \
 --enable-ctype \
